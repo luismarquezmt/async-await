@@ -1,0 +1,23 @@
+{
+  "name": "async-await",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luismarquezmt/async-await.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luismarquezmt/async-await/issues"
+  },
+  "homepage": "https://github.com/luismarquezmt/async-await#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
