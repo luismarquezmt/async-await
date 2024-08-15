@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luismarquezmt/async-await.git"
+    "url": "git+https://github.com/luismarquezmt/asyncLanding.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/luismarquezmt/async-await/issues"
+    "url": "https://github.com/luismarquezmt/asyncLanding/issues"
   },
-  "homepage": "https://github.com/luismarquezmt/async-await#readme",
+  "homepage": "https://github.com/luismarquezmt/asyncLanding#readme",
   "devDependencies": {
     "gh-pages": "^5.0.0"
   }
