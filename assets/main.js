@@ -3,7 +3,6 @@ const API = "https://youtube-v31.p.rapidapi.com/search?channelId=UCOaO3pT1bpM-N_
 const content = null || document.getElementById('content')
 
 
-
 const options = {
     method: 'GET',
     headers: {
@@ -18,6 +17,7 @@ async function fecthData(urlApi) {
     return data
 }
 
+//funcion que se llama a simisma "(async ()=>{})();"
 (async () => {
     try {
         const videos = await fecthData(API)
